@@ -9,6 +9,8 @@
 #include <QFile>
 #include "math.h"
 
+#define VERSION 1.0
+
 #define MAX_QSCD_CNT 100
 #define MAX_NUM_NETWORK 100
 #define MAX_NUM_STATION 1000
